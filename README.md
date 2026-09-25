@@ -15,7 +15,7 @@ To contribute to my programs, you can create issues if you see bugs or pull requ
 
 ## How to contact me ?
 
-Just email me at ``contact.diffin@gmail.com``.
+Just email me at <a href="mailto:devffin@proton.me">"``devffin@proton.me``</a>.
 
 <!--
 **devffin/devffin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
