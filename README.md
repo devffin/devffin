@@ -11,7 +11,7 @@ I'm good at programming in :
 
 To contribute to my programs, you can create issues if you see bugs or pull requests if you can fix it. That helps me a lot!
 
-**→** You can also translate some projects I made to English.
+**→ You can also translate some projects I made to English.**
 
 ## How to contact me ?
 
