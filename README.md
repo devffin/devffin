@@ -2,10 +2,10 @@
 
 I'm a developer who still learns how to "code", that's why certains parts of my programs are AI-generated.
 I'm good at programming in :
-![Static Badge](https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Batch-121212?style=flat&logo=windows)
-![Static Badge](https://img.shields.io/badge/HTML-orange?style=flat&logo=html5&logoColor=white)
-![Static Badge](https://img.shields.io/badge/CSS-blue?style=flat&logo=css&logoColor=white)
+<a href="https://github.com/devffin/devffin/blob/main/PYTHON.md">![Static Badge](https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white)</a>
+<a href="https://github.com/devffin/devffin/blob/main/BATCH.md">![Static Badge](https://img.shields.io/badge/Batch-121212?style=flat&logo=windows)</a>
+<a href="https://github.com/devffin/devffin/blob/main/HTML.md">![Static Badge](https://img.shields.io/badge/HTML-orange?style=flat&logo=html5&logoColor=white)</a>
+<a href="https://github.com/devffin/devffin/blob/main/CSS.md">![Static Badge](https://img.shields.io/badge/CSS-blue?style=flat&logo=css&logoColor=white)</a>
 
 ## How can you help me ?
 
