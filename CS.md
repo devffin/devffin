@@ -1,5 +1,5 @@
 # C#
-That's the first C family programming langage I learned
+That's the first C family programming langage I learned.
 
 ## My skills
 - GUI Making
