@@ -6,6 +6,7 @@ I'm good at programming in :
 <a href="https://github.com/devffin/devffin/blob/main/BATCH.md">![Static Badge](https://img.shields.io/badge/Batch-121212?style=flat&logo=windows)</a>
 <a href="https://github.com/devffin/devffin/blob/main/HTML.md">![Static Badge](https://img.shields.io/badge/HTML-orange?style=flat&logo=html5&logoColor=white)</a>
 <a href="https://github.com/devffin/devffin/blob/main/CSS.md">![Static Badge](https://img.shields.io/badge/CSS-blue?style=flat&logo=css&logoColor=white)</a>
+<a href="https://github.com/devffin/devffin/blob/main/CS.md">![Static Badge](https://img.shields.io/badge/C%23-lightblue?style=flat&logo=c&logoColor=white)</a>
 
 ## How can you help me ?
 
